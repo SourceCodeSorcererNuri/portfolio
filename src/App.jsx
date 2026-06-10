@@ -1,7 +1,7 @@
 import React, { useState } from 'react'; // 1. Added useState import
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaYoutube, FaInstagram, FaTelegramPlane, FaGithub } from 'react-icons/fa';
-import pfpImage from './assets/PFPimg.jpg';
+import pfpImage from './assets/PFPimg.png';
 import './App.css';
 import About from './components/About.jsx';
 import Projects from './components/Projects.jsx';
@@ -588,7 +588,7 @@ function App() {
                             { icon: <FaYoutube />, link: "https://youtube.com/@source_code_sorcerer" },
                             { icon: <FaInstagram />, link: "https://instagram.com/source_code_sorcerer" },
                             { icon: <FaTelegramPlane />, link: "https://t.me/SourceCodeSorcerer" },
-                            { icon: <FaGithub />, link: "https://github.com/SourceCodeSorcerer" }
+                            { icon: <FaGithub />, link: "https://github.com/DanienDev" }
                         ].map((social, i) => (
                             <motion.a
                                 key={i}

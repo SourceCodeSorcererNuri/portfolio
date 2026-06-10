@@ -29,7 +29,7 @@ const About = () => {
                         <img src={pfpImg} alt="Subject" className="m-pixel-img" />
                     </div>
                     <div className="m-id-details">
-                        <h2 className="m-codename">SOURCECODESORCERER</h2>
+                        <h2 className="m-codename">Danien</h2>
                         <p className="m-sub-label">Kasb: Vibe_Coder<br />Tug'ilgan sana: 18.06.2011</p>
                     </div>
                 </div>
@@ -92,7 +92,7 @@ const About = () => {
                     transition={{ repeat: Infinity, duration: 5 }}
                     className='big-text'
                 >
-                    SOURCECODESORCERER
+                    Danien
                 </motion.h1>
             </div>
 

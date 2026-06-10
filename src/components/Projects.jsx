@@ -6,6 +6,7 @@ const projects = [
     { id: 1, title: "Arktik Light Hyprland", desc: "Sizning hyprland oyna menejeringiz uchun eng go'zal yorqin mavzu", color: "#bc13fe", img: "https://raw.githubusercontent.com/SourceCodeSorcererNuri/arktik-light-v0.01/refs/heads/main/screenshots/screenshot2.png", link: "https://github.com/SourceCodeSorcererNuri/arktik-light-v0.01/" },
     { id: 2, title: "Monochrome Dark Hyprland", desc: "Oq qora qizil ranglardan iborat yangi foydalanuvchilar uchun ishlatishga oson bo'lgan qorong'u mavzu", color: "#ff00ff", img: "https://raw.githubusercontent.com/SourceCodeSorcererNuri/monochrome-dark-v0.01/refs/heads/main/screenshots/screenshot2.png", link: "https://github.com/SourceCodeSorcererNuri/monochrome-dark-v0.01/" },
     { id: 3, title: "NvChad-Nuri", desc: "Neovimga asoslangan hamda NvChad konfiguratsiyasining o'zbek dasturchilari uchun takomillashtrilgan varyanti", color: "#7a04eb", img: "https://raw.githubusercontent.com/SourceCodeSorcererNuri/NvChad-Nuri/main/nvchad-nuri.png", link: "https://github.com/SourceCodeSorcererNuri/NvChad-Nuri/" },
+    { id: 3, title: "SCS-Motions", desc: "Remotion animatsiya backendidan foydalanilgan solo motion design templatelar dvijoki", color: "#7a29eb", img: "https://raw.githubusercontent.com/SourceCodeSorcererNuri/scs-motions/main/screnshot.jpg", link: "https://github.com/SourceCodeSorcererNuri/scs-motions" },
 ];
 
 const Projects = () => {
